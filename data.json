@@ -1,0 +1,42 @@
+{
+    "Eastern": [
+        "Bugesera",
+        "Gatsibo",
+        "Kayonza",
+        "Kirehe",
+        "Ngoma",
+        "Nyagatare",
+        "Rwamagana"
+    ],
+    "Kigali": [
+        "Gasabo",
+        "Kicukiro",
+        "Nyarugenge"
+    ],
+    "North": [
+        "Burera",
+        "Gakenke",
+        "Gicumbi",
+        "Musanze",
+        "Rulindo"
+    ],
+    "South": [
+        "Gisagara",
+        "Huye",
+        "Kamonyi",
+        "Muhanga",
+        "Nyamagabe",
+        "Nyanza",
+        "Nyaruguru",
+        "Ruhango"
+    ],
+    "West": [
+        "Karongi",
+        "Ngororero",
+        "Nyabihu",
+        "Nyamasheke",
+        "Rubavu",
+        "Rusizi",
+        "Rutsiro"
+    ]
+}
